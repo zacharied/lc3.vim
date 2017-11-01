@@ -1,1 +1,1 @@
-au BufRead,BufNewFile *.lc3 set filetype=lc3
+au BufRead,BufNewFile *.asm set filetype=lc3
