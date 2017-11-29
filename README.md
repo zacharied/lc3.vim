@@ -6,7 +6,15 @@ This plugin provides syntax highlighting support for the assembly language of th
 
 ## Installation
 
-Install this with your favorite plugin manager, or do it by hand if you're weird. 
+Install this with your favorite plugin manager, or do it by hand if you're weird.
+
+For example, [vim-plug](https://github.com/junegunn/vim-plug) users would place
+
+```
+Plug 'zacharied/lc3.vim'
+```
+
+after `call plug#begin()` .
 
 ## Contributing
 
